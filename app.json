@@ -2,11 +2,11 @@
   "expo": {
     "name": "TaconMadre",
     "slug": "restaurant_app",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "orientation": "portrait",
     "icon": "./assets/logo.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
+    "newArchEnabled": false,
     "splash": {
       "image": "./assets/logo.png",
       "resizeMode": "contain",
@@ -21,7 +21,8 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.ema33yt.restaurant_app"
+      "package": "com.ema33yt.restaurant_app",
+       "userInterfaceStyle": "light"
     },
     "web": {
       "favicon": "./assets/logo.png"
